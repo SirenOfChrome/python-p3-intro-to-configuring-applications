@@ -31,7 +31,7 @@ packages, and scripts that you intend to use in your application.
 ## Introduction
 
 There are a number of outside resources we can leverage in working with our
-Pythonnapplications. For example, `pytest` is a Python-specific library, or
+Python applications. For example, `pytest` is a Python-specific library, or
 **package**. We leverage this testing tool for behavior-driven testing. As we
 start to build out more complex applications, it's standard to utilize
 packages and other conventions for setting up Python applications. This will
